@@ -1,0 +1,75 @@
+.picture{
+
+    width: 100%;
+    margin:auto;
+}
+.logo-section{
+position: relative;
+
+}
+.main{
+
+display:flex;
+justify-content: space-between;
+margin:19px;
+/* padding:50px; */
+width:"10px"
+
+}
+.one{
+
+border:1px solid black;
+
+}
+.two{
+
+    border:1px solid black;
+
+}
+.three{
+
+    border:1px solid black;
+}
+.my-text-style{
+
+    color:white;
+    background-color:#22427C;
+}
+.my-second-text-style{
+
+
+    color:white;
+    background-color:#22427C;
+   font-size: 200px;
+   align-items: center;
+margin:-8px;
+
+}
+.my-sec-text-style{
+
+    color:white;
+    background-color:#22427C;
+
+}
+.pict-section{
+
+display:flex;
+flex-wrap: nowrap;
+
+}
+.im{
+
+width:400px;
+height: 400px;
+margin-left: 35px;
+
+
+}
+.my-paragraph{
+
+border:1px solid black;
+width:100px;
+height: 100px;
+
+
+}
